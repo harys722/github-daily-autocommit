@@ -1,5 +1,5 @@
 {
-  "streak_count": 12,
+  "streak_count": 13,
   "streaks": [
     {
       "day": 1,
@@ -72,6 +72,12 @@
       "timestamp": "2025-08-24 07:50:53 PKT",
       "date": "2025-08-24",
       "description": "Day 12: 2025-08-24 07:50:53 PKT"
+    },
+    {
+      "day": 13,
+      "timestamp": "2025-08-25 07:46:43 PKT",
+      "date": "2025-08-25",
+      "description": "Day 13: 2025-08-25 07:46:43 PKT"
     }
   ],
   "timezone": "Asia/Karachi"
